@@ -17,7 +17,7 @@
     "username": "postsdb_wfuj_user",
     "password": "uaYPfOhPSmxqmCoYSWTPBhhKSDbD6CMK",
     "database": "postsdb_wfuj",
-    "host": "dpg-cp89fhe74orc73dei4fg-a",
+    "host": "dpg-cp89fhe74orc73dei4fg-a.frankfurt-postgres.render.com",
     "dialect": "postgres"
   }
 }
