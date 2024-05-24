@@ -14,10 +14,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "postsdb_wfuj_user",
+    "password": "uaYPfOhPSmxqmCoYSWTPBhhKSDbD6CMK",
+    "database": "postsdb_wfuj",
+    "host": "dpg-cp89fhe74orc73dei4fg-a.frankfurt-postgres.render.com",
+    "dialect": "postgre"
   }
 }
+// postgres://postsdb_wfuj_user:uaYPfOhPSmxqmCoYSWTPBhhKSDbD6CMK@dpg-cp89fhe74orc73dei4fg-a.frankfurt-postgres.render.com/postsdb_wfuj
